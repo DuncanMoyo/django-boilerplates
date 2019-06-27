@@ -126,7 +126,4 @@ dmypy.json
 
 .gitignore
 .idea/
-demo/
-manage.py
-static_in_env/
-templates/
+
